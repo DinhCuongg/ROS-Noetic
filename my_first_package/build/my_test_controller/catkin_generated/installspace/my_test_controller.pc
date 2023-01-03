@@ -1,0 +1,8 @@
+prefix=/home/dinhcuong/Desktop/catkin_ws/install
+
+Name: my_test_controller
+Description: Description of my_test_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
